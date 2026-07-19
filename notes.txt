@@ -2,4 +2,3 @@ hello git from main branch
 This is my second line
 this line was added on a feature-1 branch
 This line was added directly on GitHub
-another mistake, this time pushed
